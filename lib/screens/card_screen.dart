@@ -40,6 +40,8 @@ ShortLessonsCard(
       duration: 'Duration: 1hr 20min',
       rating: '4.9 (1724)',
     ),
+
+    
           
         ],
       ),

@@ -1,10 +1,12 @@
 
 import 'package:convo_new/router/routes.dart';
 import 'package:convo_new/screens/card_screen.dart';
+import 'package:convo_new/screens/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 final Map<String, Widget Function(dynamic)> appRoutes = {
   AppRoutes.splash: (_) => const CardScreen(),
+  AppRoutes.profile: (_) => const ProfileScreen()
  
 };
 
